@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="47792b3ca2cf4dc589d04797eeda4a08" Name="Diagram1" ZoomLevel="88">
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.address" Width="1.5" PointX="4" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.category" Width="1.5" PointX="0.875" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.lesson" Width="1.5" PointX="4.125" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.purchase" Width="1.5" PointX="4.125" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.purchase_item" Width="1.5" PointX="4" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.purchase_status" Width="1.5" PointX="7.5" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.purchase_status_history" Width="1.5" PointX="7.5" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.sysdiagrams" Width="1.5" PointX="0.875" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.teacher" Width="1.5" PointX="7.375" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.teacher_info" Width="1.5" PointX="7.375" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.user_account" Width="1.5" PointX="0.875" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Erkunt_DatabaseModel.Entity1" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
